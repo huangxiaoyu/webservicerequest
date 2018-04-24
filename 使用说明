@@ -1,0 +1,2 @@
+SoapUtil类中 sendAsync  同步调用 包括单个参数或者多个参数
+SoapUtil类中 send 同步调用 包括单个参数或者多个参数
